@@ -1,0 +1,1 @@
+alert("This is a message from a script delivered by a Python server.");

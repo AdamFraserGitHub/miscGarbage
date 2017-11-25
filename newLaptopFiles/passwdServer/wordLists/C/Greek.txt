@@ -1,0 +1,13 @@
+alpha
+beta
+gama delta
+epsilon
+zeta
+theta
+iota
+kappa
+lambda
+omicrion
+sigma
+upsilon
+omega
