@@ -1,0 +1,6 @@
+c:\users\geekg\documents\code\c#\primeFinder\primeFinder\primeFinder\bin\Debug\primeFinder.exe.config
+c:\users\geekg\documents\code\c#\primeFinder\primeFinder\primeFinder\bin\Debug\primeFinder.exe
+c:\users\geekg\documents\code\c#\primeFinder\primeFinder\primeFinder\bin\Debug\primeFinder.pdb
+c:\users\geekg\documents\code\c#\primeFinder\primeFinder\primeFinder\obj\Debug\primeFinder.csprojResolveAssemblyReference.cache
+c:\users\geekg\documents\code\c#\primeFinder\primeFinder\primeFinder\obj\Debug\primeFinder.exe
+c:\users\geekg\documents\code\c#\primeFinder\primeFinder\primeFinder\obj\Debug\primeFinder.pdb
