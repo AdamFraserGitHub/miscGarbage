@@ -1,0 +1,40 @@
+.centralDiv {
+    width: 25%;
+    height: 75%;
+
+    position: relative;
+
+    left: 37.5%;
+    top: 12.5%;
+
+    background-color: rgb(20,255,105);
+
+    border-radius: 25px;
+}
+
+.contentsTable {
+    position: relative;
+
+    width: 90%;
+    left: 5%;
+
+    height: 90%;
+    top: 5%;
+}
+
+.contentsTableRow {
+    position: relative;
+
+    top: 0px;
+    padding: 0px;
+    border: 0px;
+    margin: 0px;
+}
+
+html, body {
+    padding: 0px;
+    border: 0px;
+    margin: 0px;
+
+    background-color: rgb(120,20,205); 
+}
