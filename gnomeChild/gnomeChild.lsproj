@@ -1,0 +1,1724 @@
+{
+    "lens_id": "",
+    "version": "0",
+    "lastChanged": "1515689707050",
+    "preview": "icon.png",
+    "isReadOnly": "false",
+    "studioVersion": {
+        "createdWith": {
+            "major": "1",
+            "minor": "0",
+            "patch": "0",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "major": "1",
+            "minor": "0",
+            "patch": "0",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Materials"
+                    ],
+                    [
+                        "Meshes"
+                    ],
+                    [
+                        "Textures"
+                    ],
+                    [
+                        "Trophy [REMOVE_ME]"
+                    ],
+                    [
+                        "Trophy [REMOVE_ME]",
+                        "Textures"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "1508884415036595:113880",
+                    "1515529327761181:3917"
+                ]
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "cbbadf59bbce3fc7b0ac4138faa25b02",
+            "icon_path": "icon.png",
+            "hints": "",
+            "lens": "Static Object"
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                [
+                    "1515529361503988:4829"
+                ]
+            ]
+        }
+    },
+    "model": {
+        "ResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "3"
+                },
+                {
+                    "resId": "5",
+                    "uid": "1498868100994851:367",
+                    "name": "\/Resources\/Resource5.mesh",
+                    "sourceFilePath": "\/Users\/peter.javidpour\/Downloads\/ground_grid_mesh.fbx",
+                    "additionalProperties": {
+                        "name": "ground_grid_mesh"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "7",
+                    "uid": "1498868158392542:504",
+                    "name": "\/Resources\/Resource7.js",
+                    "sourceFilePath": "\/Users\/travis.chen\/Desktop\/GroundGrid.js",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "9",
+                    "uid": "1498868172316494:515",
+                    "name": "\/Resources\/Resource9.png",
+                    "sourceFilePath": "\/var\/folders\/x4\/81yhmvdj6xb84knvrp34ych40000gq\/T\/Studio3D-BDSKDr\/Asset0.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "10",
+                    "uid": "1498868172318940:524",
+                    "name": "\/Resources\/Resource10.png",
+                    "sourceFilePath": "\/var\/folders\/x4\/81yhmvdj6xb84knvrp34ych40000gq\/T\/Studio3D-BDSKDr\/Asset1.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "11",
+                    "uid": "1498868172319414:533",
+                    "name": "\/Resources\/Resource11",
+                    "sourceFilePath": "\/Users\/peter.javidpour\/Downloads\/ground_grid_mat.mat",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "13",
+                    "uid": "1498868868171510:1508",
+                    "name": "\/Resources\/Resource13.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "40",
+                    "uid": "1502830760689594:60799",
+                    "name": "\/Resources\/Resource40.png",
+                    "sourceFilePath": "\/var\/folders\/nd\/9vg2b63x7sz3ny4j8bcrnpvr0000gn\/T\/Studio3D-1JFZ7i\/Asset0.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "148",
+                    "uid": "1508885097330183:132242",
+                    "name": "\/Resources\/Resource148.mesh",
+                    "sourceFilePath": "\/Users\/doug.holder\/Documents\/TouchCollisionCube.fbx",
+                    "additionalProperties": {
+                        "name": "TouchCollisionCube"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "157",
+                    "uid": "1510687041464881:18334",
+                    "name": "\/Resources\/Resource157.mesh",
+                    "sourceFilePath": "\/Users\/doug.holder\/Downloads\/trophy\/trophy_02.fbx",
+                    "additionalProperties": {
+                        "name": "trophy"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "159",
+                    "uid": "1510687140422169:18756",
+                    "name": "\/Resources\/Resource159.png",
+                    "sourceFilePath": "\/Users\/doug.holder\/Downloads\/trophy\/trophy_02_lambert1_materialParams.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "160",
+                    "uid": "1510687140556884:18765",
+                    "name": "\/Resources\/Resource160.png",
+                    "sourceFilePath": "\/Users\/doug.holder\/Downloads\/trophy\/trophy_02_lambert1_normal.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "171",
+                    "uid": "1510687316698085:19056",
+                    "name": "\/Resources\/Resource171.png",
+                    "sourceFilePath": "\/Users\/doug.holder\/Library\/Caches\/Snap\/Lens Studio\/envmaps\/speakeasy_2939789583_diff.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "172",
+                    "uid": "1510687316714742:19065",
+                    "name": "\/Resources\/Resource172.png",
+                    "sourceFilePath": "\/Users\/doug.holder\/Library\/Caches\/Snap\/Lens Studio\/envmaps\/speakeasy_2939789583_spec.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "173",
+                    "uid": "1510853662796593:7374",
+                    "name": "\/Resources\/Resource173.png",
+                    "sourceFilePath": "\/Users\/doug.holder\/Downloads\/trophy_02_lambert1_base.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "174",
+                    "uid": "1511403648791631:290790",
+                    "name": "\/Resources\/Resource174",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/steve.marton\/Snapchat\/Dev\/LensCore\/Resources\/CoreResources.bundle\/scenarium\/userShaders\/matte_shadow.glsl"
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "175",
+                    "uid": "1511403648794329:290802",
+                    "name": "\/Resources\/Resource175.mesh",
+                    "sourceFilePath": "\/Users\/steve.marton\/Snapchat\/Dev\/build-Studio3D-Desktop_Qt_5_8_0_clang_64bit-Debug-internal\/x64\/products\/LensStudio.app\/Contents\/MacOS\/\/..\/Resources\/Studio3DResources.bundle\/\/\/meshes\/Plane.mesh",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "176",
+                    "uid": "1511403791848190:291597",
+                    "name": "\/Resources\/Resource176",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "178",
+                    "uid": "1511403879869353:292427",
+                    "name": "\/Resources\/Resource178",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "182",
+                    "uid": "1515529142760886:1786",
+                    "name": "\/Resources\/Resource182.mesh",
+                    "sourceFilePath": "\/Users\/anton.krasnokutskiy\/build-Studio3D-Desktop_Qt_5_8_0_clang_64bit-Debug\/x64\/products\/LensStudio.app\/Contents\/MacOS\/\/..\/Resources\/Studio3DResources.bundle\/\/\/meshes\/Box.mesh",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "186",
+                    "uid": "1515529211774640:2714",
+                    "name": "\/Resources\/Resource186",
+                    "sourceFilePath": "C:\/Users\/GeekG\/Desktop\/gnomeChild.obj",
+                    "additionalProperties": {
+                        "name": "gnome_clothing2"
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "187",
+                    "uid": "1515529211845698:2719",
+                    "name": "\/Resources\/Resource187",
+                    "sourceFilePath": "C:\/Users\/GeekG\/Desktop\/gnomeChild.obj",
+                    "additionalProperties": {
+                        "name": "Gnome_skin0"
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "188",
+                    "uid": "1515529211892961:2724",
+                    "name": "\/Resources\/Resource188",
+                    "sourceFilePath": "C:\/Users\/GeekG\/Desktop\/gnomeChild.obj",
+                    "additionalProperties": {
+                        "name": "Black"
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "189",
+                    "uid": "1515529211933450:2729",
+                    "name": "\/Resources\/Resource189",
+                    "sourceFilePath": "C:\/Users\/GeekG\/Desktop\/gnomeChild.obj",
+                    "additionalProperties": {
+                        "name": "White"
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "190",
+                    "uid": "1515529211984551:2734",
+                    "name": "\/Resources\/Resource190",
+                    "sourceFilePath": "C:\/Users\/GeekG\/Desktop\/gnomeChild.obj",
+                    "additionalProperties": {
+                        "name": "elf_lips"
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "196",
+                    "uid": "1515529212033050:2741",
+                    "name": "\/Resources\/Resource196.mesh",
+                    "sourceFilePath": "C:\/Users\/GeekG\/Desktop\/gnomeChild.obj",
+                    "additionalProperties": {
+                        "name": "Object.1"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "197",
+                    "uid": "1515529212038368:2777",
+                    "name": "\/Resources\/Resource197.mesh",
+                    "sourceFilePath": "C:\/Users\/GeekG\/Desktop\/gnomeChild.obj",
+                    "additionalProperties": {
+                        "name": "Object.10"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "198",
+                    "uid": "1515529212038383:2781",
+                    "name": "\/Resources\/Resource198.mesh",
+                    "sourceFilePath": "C:\/Users\/GeekG\/Desktop\/gnomeChild.obj",
+                    "additionalProperties": {
+                        "name": "Object.11"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "199",
+                    "uid": "1515529212038400:2785",
+                    "name": "\/Resources\/Resource199.mesh",
+                    "sourceFilePath": "C:\/Users\/GeekG\/Desktop\/gnomeChild.obj",
+                    "additionalProperties": {
+                        "name": "Object.12"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "200",
+                    "uid": "1515529212042840:2789",
+                    "name": "\/Resources\/Resource200.mesh",
+                    "sourceFilePath": "C:\/Users\/GeekG\/Desktop\/gnomeChild.obj",
+                    "additionalProperties": {
+                        "name": "Object.13"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "201",
+                    "uid": "1515529212047293:2793",
+                    "name": "\/Resources\/Resource201.mesh",
+                    "sourceFilePath": "C:\/Users\/GeekG\/Desktop\/gnomeChild.obj",
+                    "additionalProperties": {
+                        "name": "Object.14"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "202",
+                    "uid": "1515529212053792:2797",
+                    "name": "\/Resources\/Resource202.mesh",
+                    "sourceFilePath": "C:\/Users\/GeekG\/Desktop\/gnomeChild.obj",
+                    "additionalProperties": {
+                        "name": "Object.15"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "203",
+                    "uid": "1515529212058619:2801",
+                    "name": "\/Resources\/Resource203.mesh",
+                    "sourceFilePath": "C:\/Users\/GeekG\/Desktop\/gnomeChild.obj",
+                    "additionalProperties": {
+                        "name": "Object.16"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "204",
+                    "uid": "1515529212063157:2805",
+                    "name": "\/Resources\/Resource204.mesh",
+                    "sourceFilePath": "C:\/Users\/GeekG\/Desktop\/gnomeChild.obj",
+                    "additionalProperties": {
+                        "name": "Object.17"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "205",
+                    "uid": "1515529212067672:2809",
+                    "name": "\/Resources\/Resource205.mesh",
+                    "sourceFilePath": "C:\/Users\/GeekG\/Desktop\/gnomeChild.obj",
+                    "additionalProperties": {
+                        "name": "Object.18"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "206",
+                    "uid": "1515529212072624:2813",
+                    "name": "\/Resources\/Resource206.mesh",
+                    "sourceFilePath": "C:\/Users\/GeekG\/Desktop\/gnomeChild.obj",
+                    "additionalProperties": {
+                        "name": "Object.19"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "207",
+                    "uid": "1515529212038207:2745",
+                    "name": "\/Resources\/Resource207.mesh",
+                    "sourceFilePath": "C:\/Users\/GeekG\/Desktop\/gnomeChild.obj",
+                    "additionalProperties": {
+                        "name": "Object.2"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "208",
+                    "uid": "1515529212077564:2817",
+                    "name": "\/Resources\/Resource208.mesh",
+                    "sourceFilePath": "C:\/Users\/GeekG\/Desktop\/gnomeChild.obj",
+                    "additionalProperties": {
+                        "name": "Object.20"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "209",
+                    "uid": "1515529212038252:2749",
+                    "name": "\/Resources\/Resource209.mesh",
+                    "sourceFilePath": "C:\/Users\/GeekG\/Desktop\/gnomeChild.obj",
+                    "additionalProperties": {
+                        "name": "Object.3"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "210",
+                    "uid": "1515529212038272:2753",
+                    "name": "\/Resources\/Resource210.mesh",
+                    "sourceFilePath": "C:\/Users\/GeekG\/Desktop\/gnomeChild.obj",
+                    "additionalProperties": {
+                        "name": "Object.4"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "211",
+                    "uid": "1515529212038289:2757",
+                    "name": "\/Resources\/Resource211.mesh",
+                    "sourceFilePath": "C:\/Users\/GeekG\/Desktop\/gnomeChild.obj",
+                    "additionalProperties": {
+                        "name": "Object.5"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "212",
+                    "uid": "1515529212038305:2761",
+                    "name": "\/Resources\/Resource212.mesh",
+                    "sourceFilePath": "C:\/Users\/GeekG\/Desktop\/gnomeChild.obj",
+                    "additionalProperties": {
+                        "name": "Object.6"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "213",
+                    "uid": "1515529212038321:2765",
+                    "name": "\/Resources\/Resource213.mesh",
+                    "sourceFilePath": "C:\/Users\/GeekG\/Desktop\/gnomeChild.obj",
+                    "additionalProperties": {
+                        "name": "Object.7"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "214",
+                    "uid": "1515529212038336:2769",
+                    "name": "\/Resources\/Resource214.mesh",
+                    "sourceFilePath": "C:\/Users\/GeekG\/Desktop\/gnomeChild.obj",
+                    "additionalProperties": {
+                        "name": "Object.8"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "215",
+                    "uid": "1515529212038353:2773",
+                    "name": "\/Resources\/Resource215.mesh",
+                    "sourceFilePath": "C:\/Users\/GeekG\/Desktop\/gnomeChild.obj",
+                    "additionalProperties": {
+                        "name": "Object.9"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "216",
+                    "uid": "1515529327528279:3879",
+                    "name": "\/Resources\/Resource216",
+                    "sourceFilePath": "C:\/Users\/GeekG\/Desktop\/gnomeChild.obj",
+                    "additionalProperties": {
+                        "name": "gnome_clothing2"
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "217",
+                    "uid": "1515529327587970:3884",
+                    "name": "\/Resources\/Resource217",
+                    "sourceFilePath": "C:\/Users\/GeekG\/Desktop\/gnomeChild.obj",
+                    "additionalProperties": {
+                        "name": "Gnome_skin0"
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "218",
+                    "uid": "1515529327638273:3889",
+                    "name": "\/Resources\/Resource218",
+                    "sourceFilePath": "C:\/Users\/GeekG\/Desktop\/gnomeChild.obj",
+                    "additionalProperties": {
+                        "name": "Black"
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "219",
+                    "uid": "1515529327685261:3894",
+                    "name": "\/Resources\/Resource219",
+                    "sourceFilePath": "C:\/Users\/GeekG\/Desktop\/gnomeChild.obj",
+                    "additionalProperties": {
+                        "name": "White"
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "220",
+                    "uid": "1515529327722434:3899",
+                    "name": "\/Resources\/Resource220",
+                    "sourceFilePath": "C:\/Users\/GeekG\/Desktop\/gnomeChild.obj",
+                    "additionalProperties": {
+                        "name": "elf_lips"
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "226",
+                    "uid": "1515529327760926:3907",
+                    "name": "\/Resources\/Resource226.mesh",
+                    "sourceFilePath": "C:\/Users\/GeekG\/Desktop\/gnomeChild.obj",
+                    "additionalProperties": {
+                        "name": "Object.1_1"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "227",
+                    "uid": "1515529327760959:3911",
+                    "name": "\/Resources\/Resource227.mesh",
+                    "sourceFilePath": "C:\/Users\/GeekG\/Desktop\/gnomeChild.obj",
+                    "additionalProperties": {
+                        "name": "Object.1_2"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "228",
+                    "uid": "1515529327760978:3915",
+                    "name": "\/Resources\/Resource228.mesh",
+                    "sourceFilePath": "C:\/Users\/GeekG\/Desktop\/gnomeChild.obj",
+                    "additionalProperties": {
+                        "name": "Object.2"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "232",
+                    "uid": "1515529369983123:5417",
+                    "name": "\/Resources\/Resource232",
+                    "sourceFilePath": "C:\/Users\/GeekG\/Desktop\/gnomeChild.obj",
+                    "additionalProperties": {
+                        "name": "gnome_clothing2"
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "233",
+                    "uid": "1515529370049076:5422",
+                    "name": "\/Resources\/Resource233",
+                    "sourceFilePath": "C:\/Users\/GeekG\/Desktop\/gnomeChild.obj",
+                    "additionalProperties": {
+                        "name": "Gnome_skin0"
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "234",
+                    "uid": "1515529370109075:5427",
+                    "name": "\/Resources\/Resource234",
+                    "sourceFilePath": "C:\/Users\/GeekG\/Desktop\/gnomeChild.obj",
+                    "additionalProperties": {
+                        "name": "Black"
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "235",
+                    "uid": "1515529370148902:5432",
+                    "name": "\/Resources\/Resource235",
+                    "sourceFilePath": "C:\/Users\/GeekG\/Desktop\/gnomeChild.obj",
+                    "additionalProperties": {
+                        "name": "White"
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "236",
+                    "uid": "1515529370185343:5437",
+                    "name": "\/Resources\/Resource236",
+                    "sourceFilePath": "C:\/Users\/GeekG\/Desktop\/gnomeChild.obj",
+                    "additionalProperties": {
+                        "name": "elf_lips"
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "242",
+                    "uid": "1515529370230129:5445",
+                    "name": "\/Resources\/Resource242.mesh",
+                    "sourceFilePath": "C:\/Users\/GeekG\/Desktop\/gnomeChild.obj",
+                    "additionalProperties": {
+                        "name": "Object.1_1"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "243",
+                    "uid": "1515529370230173:5449",
+                    "name": "\/Resources\/Resource243.mesh",
+                    "sourceFilePath": "C:\/Users\/GeekG\/Desktop\/gnomeChild.obj",
+                    "additionalProperties": {
+                        "name": "Object.1_2"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "244",
+                    "uid": "1515529370230203:5453",
+                    "name": "\/Resources\/Resource244.mesh",
+                    "sourceFilePath": "C:\/Users\/GeekG\/Desktop\/gnomeChild.obj",
+                    "additionalProperties": {
+                        "name": "Object.2"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "245",
+                    "uid": "1515535350486401:5236",
+                    "name": "\/Resources\/Resource245",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "246",
+                    "uid": "1515535350488822:5246",
+                    "name": "\/Resources\/Resource246.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "247",
+                    "uid": "1515535350494073:5256",
+                    "name": "\/Resources\/Resource247.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "248",
+                    "uid": "1515535350497554:5266",
+                    "name": "\/Resources\/Resource248.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "249",
+                    "uid": "1515689451315156:4806",
+                    "name": "\/Resources\/Resource249",
+                    "sourceFilePath": "C:\/Users\/GeekG\/Desktop\/cartmanBase.obj",
+                    "additionalProperties": {
+                        "name": "Black"
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "250",
+                    "uid": "1515689451373781:4811",
+                    "name": "\/Resources\/Resource250",
+                    "sourceFilePath": "C:\/Users\/GeekG\/Desktop\/cartmanBase.obj",
+                    "additionalProperties": {
+                        "name": "cartman_shirt"
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "251",
+                    "uid": "1515689451413797:4816",
+                    "name": "\/Resources\/Resource251",
+                    "sourceFilePath": "C:\/Users\/GeekG\/Desktop\/cartmanBase.obj",
+                    "additionalProperties": {
+                        "name": "White"
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "252",
+                    "uid": "1515689451453720:4821",
+                    "name": "\/Resources\/Resource252",
+                    "sourceFilePath": "C:\/Users\/GeekG\/Desktop\/cartmanBase.obj",
+                    "additionalProperties": {
+                        "name": "Yellow"
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "257",
+                    "uid": "1515689451500246:4828",
+                    "name": "\/Resources\/Resource257.mesh",
+                    "sourceFilePath": "C:\/Users\/GeekG\/Desktop\/cartmanBase.obj",
+                    "additionalProperties": {
+                        "name": "Object.1"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "258",
+                    "uid": "1515689451505285:4832",
+                    "name": "\/Resources\/Resource258.mesh",
+                    "sourceFilePath": "C:\/Users\/GeekG\/Desktop\/cartmanBase.obj",
+                    "additionalProperties": {
+                        "name": "Object.2"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "259",
+                    "uid": "1515689451513234:4836",
+                    "name": "\/Resources\/Resource259.mesh",
+                    "sourceFilePath": "C:\/Users\/GeekG\/Desktop\/cartmanBase.obj",
+                    "additionalProperties": {
+                        "name": "Object.3"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "260",
+                    "uid": "1515689451519839:4840",
+                    "name": "\/Resources\/Resource260.mesh",
+                    "sourceFilePath": "C:\/Users\/GeekG\/Desktop\/cartmanBase.obj",
+                    "additionalProperties": {
+                        "name": "Object.4"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "261",
+                    "uid": "1515689451524804:4844",
+                    "name": "\/Resources\/Resource261.mesh",
+                    "sourceFilePath": "C:\/Users\/GeekG\/Desktop\/cartmanBase.obj",
+                    "additionalProperties": {
+                        "name": "Object.5"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "262",
+                    "uid": "1515689451533296:4848",
+                    "name": "\/Resources\/Resource262.mesh",
+                    "sourceFilePath": "C:\/Users\/GeekG\/Desktop\/cartmanBase.obj",
+                    "additionalProperties": {
+                        "name": "Object.6"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "263",
+                    "uid": "1515689451538650:4852",
+                    "name": "\/Resources\/Resource263.mesh",
+                    "sourceFilePath": "C:\/Users\/GeekG\/Desktop\/cartmanBase.obj",
+                    "additionalProperties": {
+                        "name": "Object.7"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "264",
+                    "uid": "1515689451545473:4856",
+                    "name": "\/Resources\/Resource264.mesh",
+                    "sourceFilePath": "C:\/Users\/GeekG\/Desktop\/cartmanBase.obj",
+                    "additionalProperties": {
+                        "name": "Object.8"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                }
+            ]
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1498868100994780:363",
+                "1": "1507675612124687:16502",
+                "2": "1510687407760041:19246",
+                "3": "1510687744155854:20850",
+                "4": "1511403648788540:290784",
+                "5": "1515529131293483:1749",
+                "6": "1515529211711712:2713",
+                "7": "1515689451255731:4805",
+                "8": "1515689451494076:4826",
+                "9": "1515689451500316:4830",
+                "10": "1515689451505374:4834",
+                "11": "1515689451513354:4838",
+                "12": "1515689451519904:4842",
+                "13": "1515689451524849:4846",
+                "14": "1515689451533386:4850",
+                "15": "1515689451538727:4854"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "3",
+            "showOrthographicLayer": "false",
+            "layersInfo": [
+                {
+                    "layerId": "1",
+                    "layerName": "Default Layer",
+                    "layerMask": "1"
+                },
+                {
+                    "layerId": "2",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576"
+                }
+            ]
+        },
+        "EffectsComponent": {
+            "6": "",
+            "7": ""
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn"
+        }
+    },
+    "controller": {
+        "ResourceController": {
+            "tree": {
+                "name": "Root",
+                "groups": [
+                    {
+                        "name": "Scripts",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "GroundGrid",
+                                "resourceId": "7",
+                                "extension": "js"
+                            },
+                            {
+                                "name": "WorldObjectController",
+                                "resourceId": "13",
+                                "extension": "js"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Textures",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "camera_output",
+                                "resourceId": "1",
+                                "extension": ""
+                            },
+                            {
+                                "name": "device_camera_texture",
+                                "resourceId": "2",
+                                "extension": ""
+                            },
+                            {
+                                "name": "ground_grid",
+                                "resourceId": "9",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "ground_grid_mask",
+                                "resourceId": "10",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "base",
+                                "resourceId": "40",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "speakeasy_diff",
+                                "resourceId": "171",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "speakeasy_spec",
+                                "resourceId": "172",
+                                "extension": "png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Meshes",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "ground_grid_mesh",
+                                "resourceId": "5",
+                                "extension": "mesh"
+                            },
+                            {
+                                "name": "touch_collision_cube",
+                                "resourceId": "148",
+                                "extension": "mesh"
+                            },
+                            {
+                                "name": "plane",
+                                "resourceId": "175",
+                                "extension": "mesh"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Materials",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "ground_grid",
+                                "resourceId": "11",
+                                "extension": ""
+                            },
+                            {
+                                "name": "matte_shadow",
+                                "resourceId": "174",
+                                "extension": ""
+                            },
+                            {
+                                "name": "touch_collision",
+                                "resourceId": "176",
+                                "extension": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Trophy [REMOVE_ME]",
+                        "groups": [
+                            {
+                                "name": "Materials",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "trophy_pbr",
+                                        "resourceId": "178",
+                                        "extension": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Meshes",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "trophy",
+                                        "resourceId": "157",
+                                        "extension": "mesh"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Textures",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "trophy_02_lambert1_materialParams",
+                                        "resourceId": "159",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "trophy_02_lambert1_normal",
+                                        "resourceId": "160",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "trophy_02_lambert1_base",
+                                        "resourceId": "173",
+                                        "extension": "png"
+                                    }
+                                ]
+                            }
+                        ],
+                        "resources": ""
+                    },
+                    {
+                        "name": "gnomeChild",
+                        "groups": [
+                            {
+                                "name": "Materials",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "gnome_clothing2",
+                                        "resourceId": "186",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Gnome_skin0",
+                                        "resourceId": "187",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Black",
+                                        "resourceId": "188",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "White",
+                                        "resourceId": "189",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "elf_lips",
+                                        "resourceId": "190",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "gnome_clothing2_2",
+                                        "resourceId": "216",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Gnome_skin0_2",
+                                        "resourceId": "217",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Black_2",
+                                        "resourceId": "218",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "White_2",
+                                        "resourceId": "219",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "elf_lips_2",
+                                        "resourceId": "220",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "gnome_clothing2_3",
+                                        "resourceId": "232",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Gnome_skin0_3",
+                                        "resourceId": "233",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Black_3",
+                                        "resourceId": "234",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "White_3",
+                                        "resourceId": "235",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "elf_lips_3",
+                                        "resourceId": "236",
+                                        "extension": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Meshes",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "Object.1",
+                                        "resourceId": "196",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Object.2",
+                                        "resourceId": "207",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Object.3",
+                                        "resourceId": "209",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Object.4",
+                                        "resourceId": "210",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Object.5",
+                                        "resourceId": "211",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Object.6",
+                                        "resourceId": "212",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Object.7",
+                                        "resourceId": "213",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Object.8",
+                                        "resourceId": "214",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Object.9",
+                                        "resourceId": "215",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Object.10",
+                                        "resourceId": "197",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Object.11",
+                                        "resourceId": "198",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Object.12",
+                                        "resourceId": "199",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Object.13",
+                                        "resourceId": "200",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Object.14",
+                                        "resourceId": "201",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Object.15",
+                                        "resourceId": "202",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Object.16",
+                                        "resourceId": "203",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Object.17",
+                                        "resourceId": "204",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Object.18",
+                                        "resourceId": "205",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Object.19",
+                                        "resourceId": "206",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Object.20",
+                                        "resourceId": "208",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Object.1_1",
+                                        "resourceId": "226",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Object.1_2",
+                                        "resourceId": "227",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Object.2_2",
+                                        "resourceId": "228",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Object.1_1_2",
+                                        "resourceId": "242",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Object.1_2_2",
+                                        "resourceId": "243",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Object.2_3",
+                                        "resourceId": "244",
+                                        "extension": "mesh"
+                                    }
+                                ]
+                            }
+                        ],
+                        "resources": ""
+                    },
+                    {
+                        "name": "Diffuse Textures",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "Base",
+                                "resourceId": "246",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "DiffuseEnvmap",
+                                "resourceId": "247",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "Normal",
+                                "resourceId": "248",
+                                "extension": "png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "cartmanBase",
+                        "groups": [
+                            {
+                                "name": "Materials",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "Black",
+                                        "resourceId": "249",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "White",
+                                        "resourceId": "251",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Yellow",
+                                        "resourceId": "252",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "cartman_shirt",
+                                        "resourceId": "250",
+                                        "extension": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Meshes",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "Object.1",
+                                        "resourceId": "257",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Object.2",
+                                        "resourceId": "258",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Object.3",
+                                        "resourceId": "259",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Object.4",
+                                        "resourceId": "260",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Object.5",
+                                        "resourceId": "261",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Object.6",
+                                        "resourceId": "262",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Object.7",
+                                        "resourceId": "263",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Object.8",
+                                        "resourceId": "264",
+                                        "extension": "mesh"
+                                    }
+                                ]
+                            }
+                        ],
+                        "resources": ""
+                    }
+                ],
+                "resources": [
+                    {
+                        "name": "Box",
+                        "resourceId": "182",
+                        "extension": "mesh"
+                    },
+                    {
+                        "name": "Diffuse",
+                        "resourceId": "245",
+                        "extension": ""
+                    }
+                ]
+            },
+            "publicAssets": [
+                {
+                    "id": "5",
+                    "path": "Meshes\/ground_grid_mesh.mesh"
+                },
+                {
+                    "id": "7",
+                    "path": "Scripts\/GroundGrid.js"
+                },
+                {
+                    "id": "9",
+                    "path": "Textures\/ground_grid.png"
+                },
+                {
+                    "id": "10",
+                    "path": "Textures\/ground_grid_mask.png"
+                },
+                {
+                    "id": "13",
+                    "path": "Scripts\/WorldObjectController.js"
+                },
+                {
+                    "id": "40",
+                    "path": "Textures\/base.png"
+                },
+                {
+                    "id": "148",
+                    "path": "Meshes\/touch_collision_cube.mesh"
+                },
+                {
+                    "id": "157",
+                    "path": "Trophy [REMOVE_ME]\/Meshes\/trophy.mesh"
+                },
+                {
+                    "id": "159",
+                    "path": "Trophy [REMOVE_ME]\/Textures\/trophy_02_lambert1_materialParams.png"
+                },
+                {
+                    "id": "160",
+                    "path": "Trophy [REMOVE_ME]\/Textures\/trophy_02_lambert1_normal.png"
+                },
+                {
+                    "id": "171",
+                    "path": "Textures\/speakeasy_diff.png"
+                },
+                {
+                    "id": "172",
+                    "path": "Textures\/speakeasy_spec.png"
+                },
+                {
+                    "id": "173",
+                    "path": "Trophy [REMOVE_ME]\/Textures\/trophy_02_lambert1_base.png"
+                },
+                {
+                    "id": "175",
+                    "path": "Meshes\/plane.mesh"
+                },
+                {
+                    "id": "182",
+                    "path": "Box.mesh"
+                },
+                {
+                    "id": "196",
+                    "path": "gnomeChild\/Meshes\/Object.1.mesh"
+                },
+                {
+                    "id": "197",
+                    "path": "gnomeChild\/Meshes\/Object.10.mesh"
+                },
+                {
+                    "id": "198",
+                    "path": "gnomeChild\/Meshes\/Object.11.mesh"
+                },
+                {
+                    "id": "199",
+                    "path": "gnomeChild\/Meshes\/Object.12.mesh"
+                },
+                {
+                    "id": "200",
+                    "path": "gnomeChild\/Meshes\/Object.13.mesh"
+                },
+                {
+                    "id": "201",
+                    "path": "gnomeChild\/Meshes\/Object.14.mesh"
+                },
+                {
+                    "id": "202",
+                    "path": "gnomeChild\/Meshes\/Object.15.mesh"
+                },
+                {
+                    "id": "203",
+                    "path": "gnomeChild\/Meshes\/Object.16.mesh"
+                },
+                {
+                    "id": "204",
+                    "path": "gnomeChild\/Meshes\/Object.17.mesh"
+                },
+                {
+                    "id": "205",
+                    "path": "gnomeChild\/Meshes\/Object.18.mesh"
+                },
+                {
+                    "id": "206",
+                    "path": "gnomeChild\/Meshes\/Object.19.mesh"
+                },
+                {
+                    "id": "207",
+                    "path": "gnomeChild\/Meshes\/Object.2.mesh"
+                },
+                {
+                    "id": "208",
+                    "path": "gnomeChild\/Meshes\/Object.20.mesh"
+                },
+                {
+                    "id": "209",
+                    "path": "gnomeChild\/Meshes\/Object.3.mesh"
+                },
+                {
+                    "id": "210",
+                    "path": "gnomeChild\/Meshes\/Object.4.mesh"
+                },
+                {
+                    "id": "211",
+                    "path": "gnomeChild\/Meshes\/Object.5.mesh"
+                },
+                {
+                    "id": "212",
+                    "path": "gnomeChild\/Meshes\/Object.6.mesh"
+                },
+                {
+                    "id": "213",
+                    "path": "gnomeChild\/Meshes\/Object.7.mesh"
+                },
+                {
+                    "id": "214",
+                    "path": "gnomeChild\/Meshes\/Object.8.mesh"
+                },
+                {
+                    "id": "215",
+                    "path": "gnomeChild\/Meshes\/Object.9.mesh"
+                },
+                {
+                    "id": "226",
+                    "path": "gnomeChild\/Meshes\/Object.1_1.mesh"
+                },
+                {
+                    "id": "227",
+                    "path": "gnomeChild\/Meshes\/Object.1_2.mesh"
+                },
+                {
+                    "id": "228",
+                    "path": "gnomeChild\/Meshes\/Object.2_2.mesh"
+                },
+                {
+                    "id": "242",
+                    "path": "gnomeChild\/Meshes\/Object.1_1_2.mesh"
+                },
+                {
+                    "id": "243",
+                    "path": "gnomeChild\/Meshes\/Object.1_2_2.mesh"
+                },
+                {
+                    "id": "244",
+                    "path": "gnomeChild\/Meshes\/Object.2_3.mesh"
+                },
+                {
+                    "id": "246",
+                    "path": "Diffuse Textures\/Base.png"
+                },
+                {
+                    "id": "247",
+                    "path": "Diffuse Textures\/DiffuseEnvmap.png"
+                },
+                {
+                    "id": "248",
+                    "path": "Diffuse Textures\/Normal.png"
+                },
+                {
+                    "id": "257",
+                    "path": "cartmanBase\/Meshes\/Object.1.mesh"
+                },
+                {
+                    "id": "258",
+                    "path": "cartmanBase\/Meshes\/Object.2.mesh"
+                },
+                {
+                    "id": "259",
+                    "path": "cartmanBase\/Meshes\/Object.3.mesh"
+                },
+                {
+                    "id": "260",
+                    "path": "cartmanBase\/Meshes\/Object.4.mesh"
+                },
+                {
+                    "id": "261",
+                    "path": "cartmanBase\/Meshes\/Object.5.mesh"
+                },
+                {
+                    "id": "262",
+                    "path": "cartmanBase\/Meshes\/Object.6.mesh"
+                },
+                {
+                    "id": "263",
+                    "path": "cartmanBase\/Meshes\/Object.7.mesh"
+                },
+                {
+                    "id": "264",
+                    "path": "cartmanBase\/Meshes\/Object.8.mesh"
+                }
+            ]
+        }
+    }
+}
